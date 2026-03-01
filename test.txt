@@ -10,4 +10,3 @@ yeni bir dememe
 =======
 Main branch line added
 >>>>>>> Stashed changes
-Main branched revoled test
