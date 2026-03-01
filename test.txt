@@ -12,3 +12,4 @@ Main branch line added
 >>>>>>> Stashed changes
 Main branched revoled test
 Conflict behaviour
+Conflict branche v2
